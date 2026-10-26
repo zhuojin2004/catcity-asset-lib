@@ -1,0 +1,12 @@
+{"cases":[
+  {"id":1,"priority":"p0","description":"打开列表页，预期显示标题「猫城纪行·全品类资产库」、搜索框、上传资产按钮"},
+  {"id":2,"priority":"p0","description":"列表页品类Tab切换，点击「场景」后卡片网格显示场景类资产"},
+  {"id":3,"priority":"p0","description":"列表页数字看板显示4个统计数字（资产总数/文件总数/来源篇章数/最近同步时间）"},
+  {"id":4,"priority":"p0","description":"列表页显示7个筛选下拉（资产品类/美术风格/资产类型/戏剧原型/等级评定/来源篇章/预览状态）"},
+  {"id":5,"priority":"p0","description":"列表页卡片网格展示资产卡片，每张卡片有图片、名称、标签chips"},
+  {"id":6,"priority":"p0","description":"点击资产卡片进入详情页，显示资产名称和返回按钮"},
+  {"id":7,"priority":"p1","description":"详情页显示评估档案区域，包含三个等级徽章"},
+  {"id":8,"priority":"p1","description":"搜索框输入关键词后列表过滤显示匹配结果"},
+  {"id":9,"priority":"p1","description":"上传页显示单个上传表单和批量提交两个区块"},
+  {"id":10,"priority":"p1","description":"审核管理页双Tab切换（待审核/我的提交）"}
+]}
